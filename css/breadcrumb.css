@@ -1,0 +1,25 @@
+.breadcrumb-area {
+  background: #fcfcfc none repeat scroll 0 0;
+  border: 1px solid #f0f0f0;
+}
+.breadcrumb {
+  padding: 14px 0;
+  margin-bottom: 0;
+  list-style: none;
+  background-color: transparent;
+  border-radius: 4px;
+}
+.breadcrumb > li {
+  display: inline-block;
+}
+.breadcrumb li a {
+  color: #333;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+}
+.breadcrumb li.active {
+  color: #fdb903;
+  color: #333;
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+}

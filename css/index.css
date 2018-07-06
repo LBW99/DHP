@@ -1,0 +1,145 @@
+#index .slider-area {
+  overflow: hidden;
+  padding: 0 0 150px;
+}
+#index .slider-area .nivoSlider {
+  position: relative;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+#index .slider-area .nivoSlider img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  max-width: none;
+}
+#index .slider-area .nivoSlider .nivo-main-image {
+  display: block !important;
+  position: relative !important;
+  width: 100% !important;
+}
+#index .slider-area .nivoSlider .nivo-main-image .nivo-caption {
+  opacity: 1;
+  overflow: visible;
+  padding: 0;
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  z-index: 8;
+}
+#index .slider-area.home .layer-1-1 .title1 {
+  font-size: 45px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  top: 8.4%;
+  left: 50%;
+  margin-left: -305px;
+  -webkit-animation: 0.8s ease-in-out 0.6s normal backwards 1 running flipInX;
+  animation: 0.8s ease-in-out 0.6s normal backwards 1 running flipInX;
+}
+#index .slider-area.home .layer-1-1 .big-title {
+  color: rgba(255, 255, 255, 0.1);
+  font-size: 90px;
+  font-weight: 700;
+  letter-spacing: 3.5px;
+  text-transform: uppercase;
+  position: absolute;
+  top: 4.2%;
+  left: 50%;
+  margin-left: -230px;
+  -webkit-animation: 0.5s ease-in-out 0.2s normal backwards 1 running fadeInDown;
+  animation: 0.5s ease-in-out 0.2s normal backwards 1 running fadeInDown;
+}
+#index .slider-area.home .layer-1-2 img {
+  position: absolute;
+  top: 32.4%;
+  left: 20%;
+  -webkit-animation: 0.5s ease-in-out 0.8s normal backwards 1 running fadeInLeft;
+  animation: 0.5s ease-in-out 0.8s normal backwards 1 running fadeInLeft;
+}
+#index .slider-area.home .layer-1-3 img {
+  position: absolute;
+  top: 24%;
+  left: 36%;
+  -webkit-animation: 0.8s ease-in-out 1.5s normal backwards 1 running bounceInUp;
+  animation: 0.8s ease-in-out 1.5s normal backwards 1 running bounceInUp;
+}
+#index .slider-area.home .layer-1-4 img {
+  position: absolute;
+  top: 31.5%;
+  left: auto;
+  right: 19%;
+  -webkit-animation: 0.5s ease-in-out 1.2s normal backwards 1 running fadeInRight;
+  animation: 0.5s ease-in-out 1.2s normal backwards 1 running fadeInRight;
+}
+#index .history-area {
+  padding: 80px 0 0;
+}
+#index .history-area .history-left {
+  width: 54%;
+  float: left;
+  margin-right: 2%;
+}
+#index .history-area .history-left .history-heading {
+  text-transform: uppercase;
+}
+#index .history-area .history-left .history-heading h1 {
+  font-size: 40px;
+  font-weight: 700;
+  margin: 0 0 13px -3px;
+}
+#index .history-area .history-left .history-heading h2 {
+  color: #fdb903;
+  margin: 0 0 6px;
+}
+#index .history-area .history-left .history-heading h6 {
+  color: #888;
+}
+#index .history-area .history-left p.history-desc {
+  color: #333;
+  width: 635px;
+  margin-top: 30px;
+}
+#index .history-area .history-right {
+  width: 44%;
+  float: right;
+}
+#index .history-area .history-right .history-img {
+  position: relative;
+}
+#index .history-area .history-right .history-img a {
+  display: block;
+}
+#index .history-area .history-right .history-img img {
+  width: 100%;
+  height: auto;
+  margin: 4px 0 0;
+}
+#index .why-use-us-area {
+  padding: 80px 0 26px;
+}
+#index .why-use-us-area .why-use-us-heading {
+  text-transform: uppercase;
+}
+#index .why-use-us-area .why-use-us-heading h1 {
+  font-size: 40px;
+  font-weight: 700;
+  margin: 0 0 13px -3px;
+}
+#index .why-use-us-area .why-use-us-heading h2 {
+  color: #fdb903;
+  margin: 0 0 6px;
+}
+#index .why-use-us-area .why-use-us-heading h6 {
+  color: #888;
+}
+#index .why-use-us-area p.why-use-us-desc {
+  color: #333;
+  width: 635px;
+  margin-top: 30px;
+}

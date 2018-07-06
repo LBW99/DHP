@@ -1,0 +1,39 @@
+.policies-area {
+  padding: 93px 0 93px;
+}
+.policies-area .section-heading {
+  margin: 0 0 35px;
+  text-align: center;
+}
+.policies-area .section-heading h1.section-title {
+  color: #fdb903;
+  font-size: 30px;
+  font-weight: 700;
+  margin: 0 0 7px;
+  text-transform: uppercase;
+}
+.policies-area .section-heading h6.section-subtitle {
+  color: #888;
+  text-transform: uppercase;
+}
+.policies-area .single-post {
+  margin: 0 0 20px;
+  overflow: hidden;
+}
+.policies-area .single-post .post-info {
+  width: 100%;
+  float: left;
+  padding: 67px 0 0;
+}
+.policies-area .single-post .post-info h3.post-title {
+  background: #f8f8f8 none repeat scroll 0 0;
+  line-height: 31px;
+  margin-top: -10px;
+  padding: 9px 0 9px 18px;
+  color: #333;
+}
+.policies-area .single-post .post-info p {
+  font-size: 13px;
+  line-height: 22px;
+  margin: 14px 0 0 20px;
+}

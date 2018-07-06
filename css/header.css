@@ -1,0 +1,31 @@
+.header-top {
+  background: #a38876 none repeat scroll 0 0;
+}
+.header-top .welcome-msg p {
+  color: #fff;
+  margin: 6px 0 4px;
+}
+.header-bottom .logo-sm.visible-xs {
+  margin: 20px auto 0;
+  text-align: center;
+  width: 100%;
+}
+.header-bottom .main-menu {
+  padding: 24px 0 20px;
+}
+.header-bottom .main-menu ul#main-nav {
+  text-align: center;
+}
+.header-bottom .main-menu ul#main-nav li {
+  position: relative;
+}
+.header-bottom .main-menu ul#main-nav > li {
+  display: inline-block;
+  padding: 10px 0;
+}
+.header-bottom .main-menu ul#main-nav > li > a {
+  color: #666;
+  font-size: 14px;
+  padding: 0 15px;
+  text-transform: uppercase;
+}
